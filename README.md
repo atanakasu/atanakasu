@@ -1,0 +1,2 @@
+# takara
+proyecto x 
